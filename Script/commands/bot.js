@@ -176,7 +176,7 @@ return api.sendMessage("️- ওয়ালাইকুমুস-সালা�
 
  
 
-if ((event.body.toLowerCase() == "sala ami tor boss Tahosin") || (event.body.toLowerCase() == "sala ami Taohid") || (event.body.toLowerCase() == "cup sala ami Tahosin") || (event.body.toLowerCase() == "madari")) { 
+if ((event.body.toLowerCase() == "ami tor boss Tahosin") || (event.body.toLowerCase() == "sala ami Taohid") || (event.body.toLowerCase() == "cup sala ami Tahosin") || (event.body.toLowerCase() == "madari")) { 
 
 return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID); 
 
