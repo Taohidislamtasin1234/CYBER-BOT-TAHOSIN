@@ -114,7 +114,7 @@ return api.sendMessage("~ এই ডায়লগ টা আমর বস তা�
 
  
 
-if ((event.body.toLowerCase() == "Tahosin") || (event.body.toLowerCase() == "Tahosin bai") || (event.body.toLowerCase() == "tahosin") || (event.body.toLowerCase() == "তাহসিন")) { 
+if ((event.body.toLowerCase() == "Tahosin") || (event.body.toLowerCase() == "Tahosin bhai") || (event.body.toLowerCase() == "tahosin") || (event.body.toLowerCase() == "তাহসিন")) { 
 
 return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID); 
 
