@@ -50,7 +50,7 @@ return api.sendMessage("<আমি তোমাকে রাইতে মিস 
 
  
 
-if ((event.body.toLowerCase() == "🙋‍♀️") || (event.body.toLowerCase() == "😽")) { 
+if ((event.body.toLowerCase() == "🙋‍♀️") || (event.body.toLowerCase() == "💵")) { 
 
 return api.sendMessage("তুমি মনে হয় আমার বস তাহসিনকে ভালোবাসো তাই ইমুজি দিতেছো তাই না,সমস্যা নাই গ্রুপে সবাই জানে তাহসিন বস আনেক ভদ্র ছেলে এত সহজে পটবে না,তুমি চালিয়ে যাও,তাহসিন বসের আইডির লিঙ্ক👉https://www.facebook.com/taohid.islam.tahosin , ইনবক্সে আবার যাইও না👻", threadID); 
 
